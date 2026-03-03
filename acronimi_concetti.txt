@@ -3,3 +3,9 @@
 CRA = Cybersecurity Resiliance Act
 PDE = Product Digital Elements
 CE = marchio che attesta cofnormità al regolmento
+
+DATE:
+11 settembre 2024 = approvazione
+11 settembre 2026 = entrata i nvigore deli obblighi dsi sgenalazione ed invidenti gravi
+11 settembre 2027 = entrata i nvigore completa dell'intero regolamento 
+
