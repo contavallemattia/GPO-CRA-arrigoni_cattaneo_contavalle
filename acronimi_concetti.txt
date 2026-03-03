@@ -9,3 +9,8 @@ DATE:
 11 settembre 2026 = entrata i nvigore deli obblighi dsi sgenalazione ed invidenti gravi
 11 settembre 2027 = entrata i nvigore completa dell'intero regolamento 
 
+
+CLASSI:
+Prodotti standard (non critici): Autocertificazione da parte del produttore.
+Prodotti importanti (Classe I): Richiedono valutazioni di terze parti (es. Accredia in Italia).
+Prodotti critici (Classe II): Certificazione esterna obbligatoria, spesso basata su schemi europei come EUCC.
